@@ -1,13 +1,14 @@
 # terminalCommand
 ## Editing a file
-1. creat a file and open it for editing:
+### 1. creat a file and open it for editing:
   > vi
   
   example:
   > vi text
   
   you creat a file named text, and you can add the suffix but not nesessary.
-2. show the file:
+  
+### 2. show the file:
   > cat
   
   example:
