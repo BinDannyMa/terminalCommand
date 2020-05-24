@@ -1,6 +1,6 @@
 # terminalCommand
 
-## Edit a file
+## Editing a file
 
 creat a file and open it for editing:
 > vi
